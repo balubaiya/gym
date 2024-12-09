@@ -1,0 +1,6 @@
+admin user:
+admin@gmail.com
+Admin@1234
+
+
+database name is project
